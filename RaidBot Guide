@@ -1,0 +1,9 @@
+RaidBot tutorial
+
+Firstly, Open up "https://github.com/yanibornea/raidbot" copy the code and put it in a new text document
+Then create a discord application in https://discord.com/developers/applications
+Enable Privileged Gateway Intents (PRESENCE INTENT,  SERVER MEMBERS INTENT, MESSAGE CONTENT INTENT) then save
+Reset token and then copy it,
+Go to the text document you created and change the token things with your actual token.
+Change the file extensension for the text document from .txt to .py
+Make sure that your bot is in the server that you wanna raid and then open the .py file
